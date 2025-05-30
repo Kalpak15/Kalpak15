@@ -55,15 +55,23 @@
 ## 🌟 Featured Projects
 
 ### 📦 [ZeroDup](https://github.com/Kalpak15/ZeroDup.git)
-**Description:** DDAS (Data Download Duplication Alert System) is a cutting-edge full-stack web application designed to revolutionize file sharing in collaborative environments. Built for universities, organizations, and teams, DDAS eliminates redundant file downloads through intelligent duplication detection, real-time alerts, and seamless cloud-based file viewing.
+**Description:** In today's collaborative digital workspace, teams often waste valuable storage and bandwidth by downloading the same files multiple times. DDAS solves this problem by providing smart duplicate detection, team management, and efficient file sharing capabilities.
 - **Tech Stack:** React, Node.js, MongoDB, JWT, GitHub
-- **Features:** Key features of your project
+- **Features:**
+  - Advanced Duplication Detection
+  - Advanced Security & Authentication
+  - Real-Time Features
+  - User Experience
 - **Live Demo:** [Demo Link](https://ddas-frontend.onrender.com)
 
 ### 📦 [RideBuddy](https://github.com/Kalpak15/Ride-Buddy.git)
-**Description:** Brief description of your second awesome project.
-- **Tech Stack:** Python, Django, PostgreSQL
-- **Features:** Key features of your project
+**Description:** In today's fast-paced world, transportation challenges affect everyone - from daily commuters to occasional travelers. Ride Buddy solves these problems by creating a community-driven platform that makes ride-sharing safe, convenient, and rewarding for both drivers and passengers.
+- **Tech Stack:** React, Node.js, MongoDB, JWT, GitHub
+- **Features:**
+   - Advanced Security & Authentication
+   - Smart Role-Based System
+   - Seamless Payment Integration
+   - Modern User Experience
 - **Live Demo:** [Demo Link](https://carpooling-system-frontend.onrender.com)
 
 
