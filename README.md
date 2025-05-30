@@ -58,24 +58,17 @@
 
 ## 🌟 Featured Projects
 
-### 📦 [ZeroDup](https://github.com/[YOUR_USERNAME]/[PROJECT_1])
+### 📦 [ZeroDup](https://github.com/Kalpak15/ZeroDup.git)
 **Description:** Brief description of your amazing project and what it does.
 - **Tech Stack:** React, Node.js, MongoDB
 - **Features:** Key features of your project
-- **Live Demo:** [Demo Link](https://your-demo-link.com)
+- **Live Demo:** [Demo Link](https://ddas-frontend.onrender.com)
 
-### 📦 [Project Name 2](https://github.com/[YOUR_USERNAME]/[PROJECT_2])
+### 📦 [Project Name 2](https://github.com/Kalpak15/Ride-Buddy.git)
 **Description:** Brief description of your second awesome project.
 - **Tech Stack:** Python, Django, PostgreSQL
 - **Features:** Key features of your project
-- **Live Demo:** [Demo Link](https://your-demo-link.com)
-
-### 📦 [Project Name 3](https://github.com/[YOUR_USERNAME]/[PROJECT_3])
-**Description:** Brief description of your third incredible project.
-- **Tech Stack:** JavaScript, Express.js, MySQL
-- **Features:** Key features of your project
-- **Live Demo:** [Demo Link](https://your-demo-link.com)
-
+- **Live Demo:** [Demo Link](https://carpooling-system-frontend.onrender.com)
 
 
 ## 🎯 Goals for 2025
