@@ -94,18 +94,11 @@
 </a>
 </p>
 
-## 💝 Support My Work
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/Kalpak15" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kalpak15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
 </div>
+
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kalpak15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
