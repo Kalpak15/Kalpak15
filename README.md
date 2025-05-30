@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Fiverse]**
-- 🌱 I'm currently learning **[System Design]**
-- 📫 How to reach me: **[kulkarnikalpak15@gmai.com]**
+- 🔭 I'm currently working on **Fiverse**
+- 🌱 I'm currently learning **System Design**
+- 📫 How to reach me: **kulkarnikalpak15@gmai.com**
 
 ## 🛠️ Tech Stack
 
@@ -71,8 +71,6 @@
 - [ ] Contribute to more open source projects
 - [ ] Learn new technologies
 - [ ] Build innovative projects
-- [ ] Mentor junior developers
-- [ ] Write technical blog posts
 
 ## 🌐 Connect with Me:
 
@@ -80,16 +78,13 @@
 <a href="https://www.linkedin.com/in/kalpakanilkulkarni/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" style="margin-right: 15px;" />
 </a>
-<a href="https://twitter.com/[YOUR_TWITTER]" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="50" style="margin-right: 15px;" />
-</a>
 <a href="https://instagram.com/[YOUR_INSTAGRAM]" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="50" style="margin-right: 15px;" />
 </a>
-<a href="mailto:[YOUR_EMAIL]" target="blank">
+<a href="mailto:[kulkarnikalpak15@gmail.com]" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="40" width="50" style="margin-right: 15px;" />
 </a>
-<a href="https://[YOUR_PORTFOLIO]" target="blank">
+<a href="https://portfolio-seven-phi-mk9m8gv88l.vercel.app/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="portfolio" height="40" width="50" style="margin-right: 15px;" />
 </a>
 </p>
@@ -97,7 +92,7 @@
 ## 💝 Support My Work
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/[YOUR_USERNAME]" target="_blank">
+  <a href="https://www.buymeacoffee.com/Kalpak15" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
   </a>
 </div>
