@@ -55,8 +55,8 @@
 ## 🌟 Featured Projects
 
 ### 📦 [ZeroDup](https://github.com/Kalpak15/ZeroDup.git)
-**Description:** Brief description of your amazing project and what it does.
-- **Tech Stack:** React, Node.js, MongoDB
+**Description:** DDAS (Data Download Duplication Alert System) is a cutting-edge full-stack web application designed to revolutionize file sharing in collaborative environments. Built for universities, organizations, and teams, DDAS eliminates redundant file downloads through intelligent duplication detection, real-time alerts, and seamless cloud-based file viewing.
+- **Tech Stack:** React, Node.js, MongoDB, JWT, GitHub
 - **Features:** Key features of your project
 - **Live Demo:** [Demo Link](https://ddas-frontend.onrender.com)
 
