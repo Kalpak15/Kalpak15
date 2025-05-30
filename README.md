@@ -60,7 +60,7 @@
 - **Features:** Key features of your project
 - **Live Demo:** [Demo Link](https://ddas-frontend.onrender.com)
 
-### 📦 [Project Name 2](https://github.com/Kalpak15/Ride-Buddy.git)
+### 📦 [RideBuddy](https://github.com/Kalpak15/Ride-Buddy.git)
 **Description:** Brief description of your second awesome project.
 - **Tech Stack:** Python, Django, PostgreSQL
 - **Features:** Key features of your project
@@ -77,9 +77,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/kalpakanilkulkarni/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" style="margin-right: 15px;" />
-</a>
-<a href="https://instagram.com/[YOUR_INSTAGRAM]" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="50" style="margin-right: 15px;" />
 </a>
 <a href="mailto:[kulkarnikalpak15@gmail.com]" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="40" width="50" style="margin-right: 15px;" />
@@ -100,7 +97,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Kalpak15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   
   **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
 </div>
