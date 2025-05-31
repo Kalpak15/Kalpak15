@@ -59,9 +59,9 @@
 - **Tech Stack:** React, Node.js, MongoDB, JWT, GitHub
 - **Features:**
   - Advanced Duplication Detection
-  - Advanced Security & Authentication
+  - Team Management & Collaboration
   - Real-Time Features
-  - User Experience
+  - Modern User Experience
 - **Live Demo:** [Demo Link](https://ddas-frontend.onrender.com)
 
 ### 📦 [RideBuddy](https://github.com/Kalpak15/Ride-Buddy.git)
@@ -70,6 +70,7 @@
 - **Features:**
    - Advanced Security & Authentication
    - Smart Role-Based System
+   - Intelligent Ride Management
    - Seamless Payment Integration
    - Modern User Experience
 - **Live Demo:** [Demo Link](https://carpooling-system-frontend.onrender.com)
