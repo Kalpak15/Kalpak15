@@ -110,7 +110,7 @@
 
 <div align="center">
 
-### 🚗 [RideBuddy - Smart Carpooling Platform](https://github.com/Kalpak15/Ride-Buddy.git)
+### 🚗 [RideBuddy - Smart Ride-Sharing Platform](https://github.com/Kalpak15/Ride-Buddy.git)
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpak15&repo=Ride-Buddy&theme=radical&hide_border=true&bg_color=0d1117" />
 
@@ -129,7 +129,7 @@
 - 🛡 *Military-Grade Security* - Advanced authentication and user verification
 - 🎭 *Smart Role System* - Dynamic driver/passenger role management
 - 🧠 *AI Route Optimization* - Intelligent ride matching and route planning
-- 💳 *Seamless Payments* - Integrated payment gateway with split billing
+- 💳 *Seamless Payments* - Integrated payment gateway to join Community
 - 📱 *Cross-Platform* - Works flawlessly on all devices
 
 *🚀 [Live Demo](https://carpooling-system-frontend.onrender.com) | 🗺 [Route Planner](https://carpooling-system-frontend.onrender.com)*
