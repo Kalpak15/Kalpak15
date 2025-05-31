@@ -18,16 +18,43 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I'm currently working on **Fiverse**
-- 🌱 I'm currently learning **System Design & Cloud Architecture**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤔 I'm looking for help with **Advanced System Design**
-- 💬 Ask me about **React, Node.js, MongoDB, System Design**
-- 📫 How to reach me: **kulkarnikalpak15@gmail.com**
-- ⚡ Fun fact: **I debug with console.log() and I'm proud of it! 😄**
-- 🎯 Goal: **Contributing to impactful open-source projects**
+- 🔭 I'm currently working on *Fiverse*
+- 🌱 I'm currently learning *System Design & Cloud Architecture*
+- 👯 I'm looking to collaborate on *Open Source Projects*
+- 🤔 I'm looking for help with *Advanced System Design*
+- 💬 Ask me about *React, Node.js, MongoDB, System Design*
+- 📫 How to reach me: *kulkarnikalpak15@gmail.com*
+- ⚡ Fun fact: *I debug with console.log() and I'm proud of it! 😄*
+- 🎯 Goal: *Contributing to impactful open-source projects*
 
 <br/>
+
+## 🛠 Tech Stack & Skills
+
+### 💻 Programming Languages:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python&theme=dark" alt="Programming Languages" />
+</div>
+
+### 🎨 Frontend Development:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" alt="Frontend" />
+</div>
+
+### ⚙ Backend Development:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" alt="Backend" />
+</div>
+
+### 🗄 Databases:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" alt="Databases" />
+</div>
+
+### 🔧 Tools & IDEs:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,figma,pycharm,eclipse&theme=dark" alt="Tools" />
+</div>
 
 ## 🏆 GitHub Trophies
 
@@ -50,49 +77,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalpak15&theme=react-dark&bg_color=0d1117&color=79ff97&line=ff6e96&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,typescript&theme=dark" alt="Programming Languages" />
-</div>
-
-### 🎨 Frontend Development:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,materialui&theme=dark" alt="Frontend" />
-</div>
-
-### ⚙️ Backend Development:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" alt="Backend" />
-</div>
-
-### 🗄️ Databases:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" alt="Databases" />
-</div>
-
-### ☁️ Cloud & DevOps:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,github&theme=dark" alt="Cloud & DevOps" />
-</div>
-
-### 🔧 Tools & IDEs:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,bash&theme=dark" alt="Tools" />
-</div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
 
-### 🎯 [ZeroDup - Smart File Management System](https://github.com/Kalpak15/ZeroDup.git)
+### 🎯 [ZeroDup - Data Duplication Alert System](https://github.com/Kalpak15/ZeroDup.git)
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpak15&repo=ZeroDup&theme=radical&hide_border=true&bg_color=0d1117" />
 
 </div>
 
-**🚀 Revolutionary file duplication detection system for teams!**
+*🚀 Revolutionary file duplication detection system for teams!*
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -101,14 +97,14 @@
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
 </div>
 
-**✨ Key Features:**
-- 🔍 **AI-Powered Duplicate Detection** - Smart algorithms to identify file duplicates
-- 👥 **Team Collaboration Hub** - Seamless team management and file sharing
-- ⚡ **Real-Time Synchronization** - Live updates across all team members
-- 🎨 **Modern UI/UX** - Beautiful, intuitive user interface
-- 🔐 **Enterprise Security** - Advanced JWT authentication and authorization
+*✨ Key Features:*
+- 🔍 *AI-Powered Duplicate Detection* - Smart algorithms to identify file duplicates
+- 👥 *Team Collaboration Hub* - Seamless team management and file sharing
+- ⚡ *Real-Time Synchronization* - Live updates across all team members
+- 🎨 *Modern UI/UX* - Beautiful, intuitive user interface
+- 🔐 *Enterprise Security* - Advanced JWT authentication and authorization
 
-**🌐 [Live Demo](https://ddas-frontend.onrender.com) | 📱 [Mobile Responsive](https://ddas-frontend.onrender.com)**
+*🌐 [Live Demo](https://ddas-frontend.onrender.com) | 📱 [Mobile Responsive](https://ddas-frontend.onrender.com)*
 
 ---
 
@@ -120,7 +116,7 @@
 
 </div>
 
-**🌍 Making transportation sustainable and community-driven!**
+*🌍 Making transportation sustainable and community-driven!*
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -129,14 +125,14 @@
   <img src="https://img.shields.io/badge/Maps_API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Maps"/>
 </div>
 
-**🎯 Revolutionary Features:**
-- 🛡️ **Military-Grade Security** - Advanced authentication and user verification
-- 🎭 **Smart Role System** - Dynamic driver/passenger role management
-- 🧠 **AI Route Optimization** - Intelligent ride matching and route planning
-- 💳 **Seamless Payments** - Integrated payment gateway with split billing
-- 📱 **Cross-Platform** - Works flawlessly on all devices
+*🎯 Revolutionary Features:*
+- 🛡 *Military-Grade Security* - Advanced authentication and user verification
+- 🎭 *Smart Role System* - Dynamic driver/passenger role management
+- 🧠 *AI Route Optimization* - Intelligent ride matching and route planning
+- 💳 *Seamless Payments* - Integrated payment gateway with split billing
+- 📱 *Cross-Platform* - Works flawlessly on all devices
 
-**🚀 [Live Demo](https://carpooling-system-frontend.onrender.com) | 🗺️ [Route Planner](https://carpooling-system-frontend.onrender.com)**
+*🚀 [Live Demo](https://carpooling-system-frontend.onrender.com) | 🗺 [Route Planner](https://carpooling-system-frontend.onrender.com)*
 
 ## 📈 Contribution Graph & Activity
 
@@ -176,24 +172,21 @@
 
 <div align="center">
 
-### 🎯 **2025 Learning Roadmap**
+### 🎯 *2025 Learning Roadmap*
 
-| 🔥 **Current Focus** | 🎯 **Next Goals** | 🚀 **Future Plans** |
+| 🔥 *Current Focus* | 🎯 *Next Goals* | 🚀 *Future Plans* |
 |:---:|:---:|:---:|
 | System Design | Microservices | Cloud Architecture |
-| Docker & K8s | DevOps Pipeline | ML/AI Integration |
+|  AWS | DevOps Pipeline | Docker & K8 |
 | Advanced React | Next.js | Mobile Development |
 
 </div>
 
-**📈 My 2025 Goals:**
-- [ ] 🌟 **100+ Contributions** per month
-- [ ] 📚 **10+ Open Source** projects
-- [ ] 🎓 **5+ Certifications** (AWS, GCP)
-- [ ] 📝 **Tech Blog** with 50+ articles
-- [ ] 🎤 **5+ Conference Talks**
-- [ ] 👥 **Mentor 20+ Developers**
-- [ ] 🚀 **Launch SaaS Product**
+*📈 My 2025 Goals:*
+- [ ] 🌟 *100+ Contributions* per month
+- [ ] 📚 *10+ Open Source* projects
+- [ ] 🎓 *5+ Certifications* (AWS, GCP)
+- [ ] 🚀 *Launch Full Stack Product*
 
 ## 🌐 Let's Connect & Collaborate!
 
@@ -223,9 +216,9 @@
 
 <div align="center">
   
-### 💡 **"Code is poetry written in logic, and every bug is just a plot twist!"** 
+### 💡 *"Code is poetry written in logic, and every bug is just a plot twist!"* 
 
-**🚀 Ready to build something amazing together? Let's turn ideas into reality!**
+*🚀 Ready to build something amazing together? Let's turn ideas into reality!*
 
 </div>
 
