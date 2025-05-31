@@ -1,105 +1,240 @@
 # Hi there, I'm Kalpak Kulkarni 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Building+the+future+one+line+of+code+at+a+time+%F0%9F%9A%80;Always+learning%2C+always+growing%2C+always+coding+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kalpak15&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Kalpak15?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Badge">
+  <img src="https://img.shields.io/github/stars/Kalpak15?label=Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars">
 </div>
 
 ## 🚀 About Me
 
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 - 🔭 I'm currently working on **Fiverse**
-- 🌱 I'm currently learning **System Design**
-- 📫 How to reach me: **kulkarnikalpak15@gmai.com**
+- 🌱 I'm currently learning **System Design & Cloud Architecture**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 🤔 I'm looking for help with **Advanced System Design**
+- 💬 Ask me about **React, Node.js, MongoDB, System Design**
+- 📫 How to reach me: **kulkarnikalpak15@gmail.com**
+- ⚡ Fun fact: **I debug with console.log() and I'm proud of it! 😄**
+- 🎯 Goal: **Contributing to impactful open-source projects**
 
-## 🛠️ Tech Stack
+<br/>
 
-### Languages:
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="margin-right: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="margin-right: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin-right: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 15px;"/>
-</p>
+## 🏆 GitHub Trophies
 
-### Frontend:
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin-right: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin-right: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin-right: 15px;"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="margin-right: 15px;"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kalpak15&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
 
-### Backend:
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin-right: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" style="margin-right: 15px;"/>
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="50" height="50" style="margin-right: 15px;"/>
-</p>
+## 📊 GitHub Statistics
 
-### Database:
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="margin-right: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin-right: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="margin-right: 15px;"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalpak15&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&icon_color=79ff97"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpak15&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=ffffff"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpak15&theme=radical&hide_border=true&background=0d1117&stroke=ff6e96&ring=79ff97&fire=ff6e96&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6e96&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+</div>
 
-### Tools:
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50" style="margin-right: 15px;"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" style="margin-right: 15px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" style="margin-right: 15px;"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalpak15&theme=react-dark&bg_color=0d1117&color=79ff97&line=ff6e96&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
+## 🛠️ Tech Stack & Skills
 
+### 💻 Programming Languages:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,typescript&theme=dark" alt="Programming Languages" />
+</div>
+
+### 🎨 Frontend Development:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,materialui&theme=dark" alt="Frontend" />
+</div>
+
+### ⚙️ Backend Development:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" alt="Backend" />
+</div>
+
+### 🗄️ Databases:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis&theme=dark" alt="Databases" />
+</div>
+
+### ☁️ Cloud & DevOps:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,github&theme=dark" alt="Cloud & DevOps" />
+</div>
+
+### 🔧 Tools & IDEs:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,bash&theme=dark" alt="Tools" />
+</div>
 
 ## 🌟 Featured Projects
 
-### 📦 [ZeroDup](https://github.com/Kalpak15/ZeroDup.git)
-**Description:** In today's collaborative digital workspace, teams often waste valuable storage and bandwidth by downloading the same files multiple times. DDAS solves this problem by providing smart duplicate detection, team management, and efficient file sharing capabilities.
-- **Tech Stack:** React, Node.js, MongoDB, JWT, GitHub
-- **Features:**
-  - Advanced Duplication Detection
-  - Team Management & Collaboration
-  - Real-Time Features
-  - Modern User Experience
-- **Live Demo:** [Demo Link](https://ddas-frontend.onrender.com)
+<div align="center">
 
-### 📦 [RideBuddy](https://github.com/Kalpak15/Ride-Buddy.git)
-**Description:** In today's fast-paced world, transportation challenges affect everyone - from daily commuters to occasional travelers. Ride Buddy solves these problems by creating a community-driven platform that makes ride-sharing safe, convenient, and rewarding for both drivers and passengers.
-- **Tech Stack:** React, Node.js, MongoDB, JWT, GitHub
-- **Features:**
-   - Advanced Security & Authentication
-   - Smart Role-Based System
-   - Intelligent Ride Management
-   - Seamless Payment Integration
-   - Modern User Experience
-- **Live Demo:** [Demo Link](https://carpooling-system-frontend.onrender.com)
+### 🎯 [ZeroDup - Smart File Management System](https://github.com/Kalpak15/ZeroDup.git)
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpak15&repo=ZeroDup&theme=radical&hide_border=true&bg_color=0d1117" />
 
-## 🎯 Goals for 2025
-- [ ] Contribute to more open source projects
-- [ ] Learn new technologies
-- [ ] Build innovative projects
-
-## 🌐 Connect with Me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/kalpakanilkulkarni/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50" style="margin-right: 15px;" />
-</a>
-<a href="mailto:[kulkarnikalpak15@gmail.com]" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="40" width="50" style="margin-right: 15px;" />
-</a>
-<a href="https://portfolio-seven-phi-mk9m8gv88l.vercel.app/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="portfolio" height="40" width="50" style="margin-right: 15px;" />
-</a>
-</p>
-
-  
-  **Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
 </div>
 
-
+**🚀 Revolutionary file duplication detection system for teams!**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kalpak15&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
+</div>
+
+**✨ Key Features:**
+- 🔍 **AI-Powered Duplicate Detection** - Smart algorithms to identify file duplicates
+- 👥 **Team Collaboration Hub** - Seamless team management and file sharing
+- ⚡ **Real-Time Synchronization** - Live updates across all team members
+- 🎨 **Modern UI/UX** - Beautiful, intuitive user interface
+- 🔐 **Enterprise Security** - Advanced JWT authentication and authorization
+
+**🌐 [Live Demo](https://ddas-frontend.onrender.com) | 📱 [Mobile Responsive](https://ddas-frontend.onrender.com)**
+
+---
+
+<div align="center">
+
+### 🚗 [RideBuddy - Smart Carpooling Platform](https://github.com/Kalpak15/Ride-Buddy.git)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpak15&repo=Ride-Buddy&theme=radical&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+**🌍 Making transportation sustainable and community-driven!**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Maps_API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Maps"/>
+</div>
+
+**🎯 Revolutionary Features:**
+- 🛡️ **Military-Grade Security** - Advanced authentication and user verification
+- 🎭 **Smart Role System** - Dynamic driver/passenger role management
+- 🧠 **AI Route Optimization** - Intelligent ride matching and route planning
+- 💳 **Seamless Payments** - Integrated payment gateway with split billing
+- 📱 **Cross-Platform** - Works flawlessly on all devices
+
+**🚀 [Live Demo](https://carpooling-system-frontend.onrender.com) | 🗺️ [Route Planner](https://carpooling-system-frontend.onrender.com)**
+
+## 📈 Contribution Graph & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kalpak15&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=ffffff" alt="WakaTime Stats" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalpak15/Kalpak15/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalpak15/Kalpak15/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kalpak15/Kalpak15/output/github-contribution-grid-snake.svg">
+</picture>
+
+## 🏅 Achievements & Milestones
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kalpak15&theme=radical" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kalpak15&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kalpak15&theme=radical" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kalpak15&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kalpak15&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+</div>
+
+## 🔥 Streak & Contributions
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kalpak15&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="Weekly Streak"/>
+</div>
+
+## 📚 Currently Learning & Goals
+
+<div align="center">
+
+### 🎯 **2025 Learning Roadmap**
+
+| 🔥 **Current Focus** | 🎯 **Next Goals** | 🚀 **Future Plans** |
+|:---:|:---:|:---:|
+| System Design | Microservices | Cloud Architecture |
+| Docker & K8s | DevOps Pipeline | ML/AI Integration |
+| Advanced React | Next.js | Mobile Development |
+
+</div>
+
+**📈 My 2025 Goals:**
+- [ ] 🌟 **100+ Contributions** per month
+- [ ] 📚 **10+ Open Source** projects
+- [ ] 🎓 **5+ Certifications** (AWS, GCP)
+- [ ] 📝 **Tech Blog** with 50+ articles
+- [ ] 🎤 **5+ Conference Talks**
+- [ ] 👥 **Mentor 20+ Developers**
+- [ ] 🚀 **Launch SaaS Product**
+
+## 🌐 Let's Connect & Collaborate!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kalpakanilkulkarni/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kulkarnikalpak15@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://portfolio-seven-phi-mk9m8gv88l.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Kalpak15" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/KalpakKulkarni" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  
+### 💡 **"Code is poetry written in logic, and every bug is just a plot twist!"** 
+
+**🚀 Ready to build something amazing together? Let's turn ideas into reality!**
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
