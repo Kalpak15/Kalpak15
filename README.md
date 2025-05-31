@@ -56,27 +56,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,figma,pycharm,eclipse&theme=dark" alt="Tools" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kalpak15&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalpak15&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&icon_color=79ff97"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpak15&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=ffffff"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpak15&theme=radical&hide_border=true&background=0d1117&stroke=ff6e96&ring=79ff97&fire=ff6e96&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6e96&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalpak15&theme=react-dark&bg_color=0d1117&color=79ff97&line=ff6e96&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
 
 ## 🌟 Featured Projects
 
@@ -104,7 +83,7 @@
 - 🎨 *Modern UI/UX* - Beautiful, intuitive user interface
 - 🔐 *Enterprise Security* - Advanced JWT authentication and authorization
 
-*🌐 [Live Demo](https://ddas-frontend.onrender.com) | 📱 [Mobile Responsive](https://ddas-frontend.onrender.com)*
+*🌐 [Live Demo](https://ddas-frontend.onrender.com) 
 
 ---
 
@@ -132,19 +111,39 @@
 - 💳 *Seamless Payments* - Integrated payment gateway to join Community
 - 📱 *Cross-Platform* - Works flawlessly on all devices
 
-*🚀 [Live Demo](https://carpooling-system-frontend.onrender.com) | 🗺 [Route Planner](https://carpooling-system-frontend.onrender.com)*
+*🚀 [Live Demo](https://carpooling-system-frontend.onrender.com) 
 
-## 📈 Contribution Graph & Activity
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Kalpak15&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=ffffff" alt="WakaTime Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kalpak15&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kalpak15/Kalpak15/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kalpak15/Kalpak15/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kalpak15/Kalpak15/output/github-contribution-grid-snake.svg">
-</picture>
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kalpak15&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=ffffff&icon_color=79ff97"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalpak15&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalpak15&theme=radical&hide_border=true&background=0d1117&stroke=ff6e96&ring=79ff97&fire=ff6e96&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff6e96&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00ff41/Kalpak15" alt="Contribution Heatmap" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalpak15&theme=neon-dark&bg_color=0D1117&color=00ff41&line=ff0080&point=ffd700&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY%20GRAPH" alt="Activity Graph" />
+</div>
+🐍 CONTRIBUTION SNAKE - EATING THE COMMITS
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
+
+
+
 
 ## 🏅 Achievements & Milestones
 
@@ -176,9 +175,9 @@
 
 | 🔥 *Current Focus* | 🎯 *Next Goals* | 🚀 *Future Plans* |
 |:---:|:---:|:---:|
-| System Design | Microservices | Cloud Architecture |
-|  AWS | DevOps Pipeline | Docker & K8 |
-| Advanced React | Next.js | Mobile Development |
+| System Design | Microservices | Advanced React |
+|  AWS | DevOps Pipeline | Next.js |
+| Docker & K8 | Cloud Architecture | Mobile Development |
 
 </div>
 
@@ -202,9 +201,6 @@
   </a>
   <a href="https://github.com/Kalpak15" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/KalpakKulkarni" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
