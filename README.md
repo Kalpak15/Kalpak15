@@ -57,61 +57,6 @@
 </div>
 
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🎯 [ZeroDup - Data Duplication Alert System](https://github.com/Kalpak15/ZeroDup.git)
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpak15&repo=ZeroDup&theme=radical&hide_border=true&bg_color=0d1117" />
-
-</div>
-
-*🚀 Revolutionary file duplication detection system for teams!*
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
-</div>
-
-*✨ Key Features:*
-- 🔍 *AI-Powered Duplicate Detection* - Smart algorithms to identify file duplicates
-- 👥 *Team Collaboration Hub* - Seamless team management and file sharing
-- ⚡ *Real-Time Synchronization* - Live updates across all team members
-- 🎨 *Modern UI/UX* - Beautiful, intuitive user interface
-- 🔐 *Enterprise Security* - Advanced JWT authentication and authorization
-
-*🌐 [Live Demo](https://drive.google.com/file/d/1dpIlLp7qPr_UdhenwIAcXxGS6aBiBqmr/view?usp=sharing) 
-
----
-
-<div align="center">
-
-### 🚗 [RideBuddy - Smart Ride-Sharing Platform](https://github.com/Kalpak15/Ride-Buddy.git)
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalpak15&repo=Ride-Buddy&theme=radical&hide_border=true&bg_color=0d1117" />
-
-</div>
-
-*🌍 Making transportation sustainable and community-driven!*
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Maps_API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white" alt="Maps"/>
-</div>
-
-*🎯 Revolutionary Features:*
-- 🛡 *Military-Grade Security* - Advanced authentication and user verification
-- 🎭 *Smart Role System* - Dynamic driver/passenger role management
-- 🧠 *AI Route Optimization* - Intelligent ride matching and route planning
-- 💳 *Seamless Payments* - Integrated payment gateway to join Community
-- 📱 *Cross-Platform* - Works flawlessly on all devices
-
-*🚀 [Live Demo](https://drive.google.com/file/d/1BmpxNQqiZ8ozP2Apft4YDueLkwT2HPup/view?usp=sharing) 
 
 ## 🏆 GitHub Trophies
 
